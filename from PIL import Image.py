@@ -15,7 +15,7 @@ def converter_imagens(input_folder):
 
 def main():
     #Digite o caminho da sua pasta com as imagens abaixo
-    input_folder = "/home/sando/Área de Trabalho/cancer_mama/data/data-png"
+    input_folder = ""
 
     if not os.path.isdir(input_folder):
         print("Pasta inválida.")
