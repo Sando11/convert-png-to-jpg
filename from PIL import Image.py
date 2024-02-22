@@ -15,6 +15,7 @@ def converter_imagens(input_folder):
 
 def main():
     #Digite o caminho da sua pasta com as imagens abaixo
+    #write the path your images folder below
     input_folder = ""
 
     if not os.path.isdir(input_folder):
